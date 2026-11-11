@@ -1,8 +1,10 @@
 # Cutest cat — make.fun cutest-cat-01
 
-A 3D-rendered round ginger-and-white kitten with huge sparkling
-amber eyes, head tilted, a small smile, oversized paws and a pastel
-ball of yarn, centred on a soft cream background.
+A 3D-rendered round ginger-and-white kitten in a tiny white shirt
+and black tie, paws pressed thoughtfully to its temples, huge
+sparkling amber eyes and a small smile, centred on a soft cream
+background. A polished remake of a reference photo of a cat in a
+shirt and tie, thinking — same joke, clean craft.
 
 ## Why this cat
 
